@@ -35,6 +35,7 @@ h2{
 .main2{
     justify-content: center;
     display: flex;
+    padding: 20px;
 }
 img{
     width: 100px;
