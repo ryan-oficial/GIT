@@ -2,3 +2,40 @@
     margin: 0;
     padding: 0;
 }
+header{
+    background-color: aquamarine;
+    height: 75px;
+    align-items: center;
+
+}
+.cabecalho{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   
+}
+a{
+    padding: 25px 20px;
+    color: black
+}
+.banner{
+    background-color: black;
+    height: 500px;
+}
+.banner2{
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+
+}
+h2{
+    color: blue;
+    margin: 20px;
+}
+.main2{
+    justify-content: center;
+    display: flex;
+}
+img{
+    width: 100px;
+}
